@@ -29,7 +29,7 @@ metadata:
       title: Alerts
       icon: alert
 spec:
-  type: service
+  type: ui-asset
   lifecycle: development
   owner: gv
   system: test-system
