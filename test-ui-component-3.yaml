@@ -4,7 +4,7 @@ metadata:
   name: test-ui-component-3
   description: Testing Component 3
   tags:
-    - jQuery
+    - jquery
   links:
     - url: https://example.com/user
       title: Examples Users
