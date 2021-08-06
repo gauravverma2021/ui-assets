@@ -5,6 +5,7 @@ metadata:
   description: Testing Component 3
   tags:
     - jquery
+    - testing
   links:
     - url: https://example.com/user
       title: Examples Users
